@@ -5,3 +5,6 @@ bun.lockb
 .vscode
 .apibara
 .persistence
+.env
+playground/
+.DS_Store
